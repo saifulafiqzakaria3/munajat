@@ -2,8 +2,5 @@
 	"name": "munajat",
 	"compatibility_date": "2025-01-01",
 	"compatibility_flags": ["nodejs_compat"],
-	"pages_build_output_dir": ".svelte-kit/cloudflare",
-	"assets": {
-		"directory": ".svelte-kit/cloudflare"
-	}
+	"pages_build_output_dir": ".svelte-kit/cloudflare"
 }
