@@ -1,0 +1,17 @@
+@import 'tailwindcss';
+
+*, *::before, *::after {
+	box-sizing: border-box;
+}
+
+html, body {
+	margin: 0;
+	padding: 0;
+	height: 100%;
+	background: #0B0F1A;
+	overscroll-behavior: none;
+}
+
+button {
+	-webkit-tap-highlight-color: transparent;
+}
